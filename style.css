@@ -1,0 +1,17 @@
+
+body {
+    margin: 0;
+}
+
+.container {
+    width: 100px;
+    height: 100px;
+    background:red;
+    cursor: no-drop;
+    filter: blur(5px);
+}
+
+img {
+    filter: drop-shadow(2px 2px 5px black);
+}
+
